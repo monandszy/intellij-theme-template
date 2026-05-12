@@ -213,21 +213,18 @@
       "trackColor": "backgroundColor"
     },
     "SearchEverywhere": {
-      "Advertiser": {
-        "background": "backgroundColor",
-        "foreground": "foregroundColor"
-      },
-      "Header": {
-        "background": "backgroundColor"
-      },
       "SearchField": {
-        "background": "backgroundColor",
         "infoForeground": "foregroundColor"
       }
     },
     "SearchMatch": {
-      "endBackground": "selectionColor",
-      "startBackground": "selectionColor"
+      "foreground": "errorColor",
+      "background": "errorColor",
+      "endBackground": "errorColor",
+      "startBackground": "errorColor"
+    },
+    "SpeedSearch": {
+      "background": "selectionColor"
     },
     "TabbedPane": {
       "contentAreaColor": "backgroundColor",

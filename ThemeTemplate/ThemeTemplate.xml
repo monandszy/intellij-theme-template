@@ -2140,6 +2140,7 @@
     <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD"/>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="{mainfg}"/>
         <option name="BACKGROUND" value="42557b"/>
         <option name="EFFECT_COLOR" value="457dff"/>
       </value>
@@ -2266,6 +2267,7 @@
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="{mainfg}"/>
         <option name="BACKGROUND" value="42557b"/>
         <option name="EFFECT_COLOR" value="457dff"/>
         <option name="ERROR_STRIPE_COLOR" value="457dff"/>
@@ -2357,6 +2359,7 @@
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="{mainfg}"/>
         <option name="BACKGROUND" value="42557b"/>
         <option name="EFFECT_COLOR" value="457dff"/>
       </value>

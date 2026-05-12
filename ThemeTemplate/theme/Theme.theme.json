@@ -227,8 +227,15 @@
       }
     },
     "SearchMatch": {
+      "foreground": "foregroundColor",
       "endBackground": "selectionColor",
       "startBackground": "selectionColor"
+    },
+    "SpeedSearch": {
+      "background": "selectionColor",
+      "borderColor": "borderColor",
+      "errorForeground": "errorColor",
+      "foreground": "foregroundColor"
     },
     "TabbedPane": {
       "contentAreaColor": "backgroundColor",
